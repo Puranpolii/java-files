@@ -1,0 +1,9 @@
+import java.util.*;
+class program3
+{  
+    public static void main(String arg[])
+    {  
+       Scanner sobj = new Scanner(System.in);
+
+    }
+}
